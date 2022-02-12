@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "adhd-manager",
+    "slug": "adhd-manager",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
