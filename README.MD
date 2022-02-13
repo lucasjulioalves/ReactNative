@@ -1,6 +1,6 @@
 # How to start
 ```sh
-run expo start
+expo start
 ```
 
 
