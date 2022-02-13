@@ -1,9 +1,11 @@
 # How to start
-- run expo start
-- profit
+```sh
+run expo start
+```
+
 
 # Template
-
+```sh
 import React from 'react'
 import { View, StyleSheet } from 'react-native';
 
@@ -21,3 +23,4 @@ const styles = StyleSheet.create({
 });
 
 export default Template;
+```
