@@ -7,12 +7,12 @@ run expo start
 # Template
 ```sh
 import React from 'react'
-import { View, StyleSheet } from 'react-native';
+import { View, StyleSheet, Text } from 'react-native';
 
 const Template = () => {
 
     return <View style={styles.container}>
-
+        <Text>Template goes here</Text>
     </View>
 }
 
